@@ -1,0 +1,15 @@
+APScheduler==3.6.3
+asgiref==3.5.0
+cachetools==4.2.2
+certifi==2021.10.8
+Django==4.0.2
+Pillow==9.0.1
+psycopg2==2.9.3
+python-telegram-bot==13.11
+pytz==2021.3
+pytz-deprecation-shim==0.1.0.post0
+six==1.16.0
+sqlparse==0.4.2
+tornado==6.1
+tzdata==2021.5
+tzlocal==4.1
